@@ -1,0 +1,23 @@
+{
+  "name": "js-collections-kit",
+  "version": "1.0.0",
+  "description": "A collection of data structures and algorithum for JavaScript",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuntazirHaider/js-collections-kit.git"
+  },
+  "keywords": [
+    "js-collections-kit"
+  ],
+  "author": "Muntazir Haider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuntazirHaider/js-collections-kit/issues"
+  },
+  "homepage": "https://github.com/MuntazirHaider/js-collections-kit#readme"
+}
