@@ -1,3 +1,4 @@
+/** Data Structures */
 // heap
 import { MaxHeap, MinHeap } from "./Data_Structures/heap/index.js";
 // queue
@@ -16,4 +17,9 @@ import { DisjointSet } from "./Data_Structures/set/index.js";
 import { Matrix } from "./Data_Structures/array/index.js";
 
 
-export { MaxHeap, MinHeap, Queue, PriorityQueue, CircularQueue, Deque, Stack, CircularStack, PriorityStack, LinkedList, DoublyLinkedList, CircularLinkedList, BinaryTree, BinarySearchTree, AvlTree, Trie, AdjacencyList, AdjacencyMatrix, DirectedAdjacencyList, DirectedAdjacencyMatrix, WeightedAdjacencyList, DisjointSet, Matrix } 
+/** Algorithm */
+// searching
+import { RabinKarp } from "./Algorithm/searching/index.js";
+
+
+export { MaxHeap, MinHeap, Queue, PriorityQueue, CircularQueue, Deque, Stack, CircularStack, PriorityStack, LinkedList, DoublyLinkedList, CircularLinkedList, BinaryTree, BinarySearchTree, AvlTree, Trie, AdjacencyList, AdjacencyMatrix, DirectedAdjacencyList, DirectedAdjacencyMatrix, WeightedAdjacencyList, DisjointSet, Matrix, RabinKarp } 
